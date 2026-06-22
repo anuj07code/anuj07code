@@ -7,6 +7,11 @@
 - 🎯 Targeting Product-Based Companies
 - 🔥 Solving LeetCode problems daily
 - ## 🛠️ Tech Stack
+- ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuj07code&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,git,github,mysql,vscode" />
