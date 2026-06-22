@@ -15,15 +15,20 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuj07code&show_icons=true&theme=tokyonight" />
 </p>
-- ## 🔥 GitHub Streak
+ ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anuj07code&theme=tokyonight" />
 </p>
-- ## 💻 Most Used Languages
+ ## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj07code&layout=compact&theme=tokyonight" />
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anuj07code&theme=tokyonight&row=1&column=7" />
 </p>
 
 ## 🛠️ Skills
