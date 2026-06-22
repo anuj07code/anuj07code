@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Java+%7C+C%2B%2B+Developer;Future+Product-Based+Engineer" />
+</p>
 # Hi 👋, I'm Anuj Kumar Patwa
 
 ## 🚀 About Me
@@ -40,6 +43,10 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anuj07op?theme=dark&font=Nunito" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuj07code&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## 🛠️ Skills
