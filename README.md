@@ -6,6 +6,11 @@
 - 🌱 Currently learning DSA, Java, and C++
 - 🎯 Targeting Product-Based Companies
 - 🔥 Solving LeetCode problems daily
+- ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,git,github,mysql,vscode" />
+</p>
 
 ## 🛠️ Skills
 
