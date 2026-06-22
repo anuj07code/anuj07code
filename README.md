@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;DSA+Enthusiast;Java+%7C+C%2B%2B+Developer;Future+Product-Based+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Anuj+Kumar+Patwa;Aspiring+Software+Engineer;DSA+Enthusiast;Java+and+C%2B%2B+Developer;Future+SDE" />
 </p>
 # Hi 👋, I'm Anuj Kumar Patwa
 
