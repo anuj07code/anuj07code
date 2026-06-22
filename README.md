@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anuj Patwa
+# Hi 👋, I'm Anuj Kumar Patwa
 
 ## 🚀 About Me
 
