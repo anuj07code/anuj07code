@@ -20,6 +20,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anuj07code&theme=tokyonight" />
 </p>
+- ## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj07code&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🛠️ Skills
 
