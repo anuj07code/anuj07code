@@ -15,6 +15,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuj07code&show_icons=true&theme=tokyonight" />
 </p>
+- ## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anuj07code&theme=tokyonight" />
+</p>
 
 ## 🛠️ Skills
 
